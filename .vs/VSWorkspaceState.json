@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Controllers",
+    "\\Hub",
+    "\\Models\\Accounts",
+    "\\Models\\Chat"
+  ],
+  "SelectedNode": "\\WebApi.csproj",
+  "PreviewInSolutionExplorer": false
+}
